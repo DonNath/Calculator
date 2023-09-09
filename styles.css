@@ -33,7 +33,7 @@
 .display{
     display: flex;
     justify-content: flex-end;
-    margin: 20px0;
+    margin: 20px;
 }
 .display input{
     text-align: right;
